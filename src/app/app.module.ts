@@ -4,14 +4,10 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PokemonModule } from './pokemon/pokemon.module';
-import { HomeComponent } from './pages/home/home.component';
-import { DetailComponent } from './pages/detail/detail.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    HomeComponent,
-    DetailComponent
+    AppComponent
   ],
   imports: [
     BrowserModule,
