@@ -21,7 +21,7 @@ Você deve criar uma página para:
 - [ ]  Aplicar conhecimento de RxJS no desenvolvimento;
 - [ ]  As informações de favoritos e comentários adicionados por um usuário devem ser salvas no estado. Utilizar o ngRx para esse controle;
 - [ ]  Deve fazer a paginação da listagem (máximo 10 itens por página);
-- [ ]  Fazer teste unitários (com Jest) para todos ou componentes, services, entre outros.
+- [x]  Fazer teste unitários (com Jest) para todos ou componentes, services, entre outros.
 
 ## Avaliação
 - Se o objetivo proposto foi alcançado;
