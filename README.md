@@ -5,19 +5,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## O desafio/objetivo
 Você deve criar uma página para:
 - [ ] Listar os Pokémons utilizando uma API RESTful para isso. Sugerimos a seguinte API: https://pokeapi.co/docsv2;
-- [ ]  Filtrar os pokémons que você deseja visualizar;
-- [ ]  Favoritar pokémons;
-- [ ]  Adicionar comentários sobre os pokémons;
-- [ ]  Poder visualizar detalhes do pokémon selecionado em uma modal com outra rota;
+- [ ] Filtrar os pokémons que você deseja visualizar;
+- [ ] Favoritar pokémons;
+- [ ] Adicionar comentários sobre os pokémons;
+- [ ] Poder visualizar detalhes do pokémon selecionado em uma modal com outra rota;
 
 ## Requisitos
-- [ ]  Utilizar a última versão do framework Angular;
+- [x]  Utilizar a última versão do framework Angular;
 - [ ]  Devem ser utilizados obrigatoriamente:
     - [ ]  Services;
     - [ ]  Lazy loading;
     - [ ]  Diretivas;
     - [ ]  FormControls.
-- [ ]  Utilizar o Bootstrap, versão 3 ou 4, como folha de estilo base;
+- [x]  Utilizar o Bootstrap, versão 3 ou 4, como folha de estilo base;
 - [ ]  Aplicar conhecimento de RxJS no desenvolvimento;
 - [ ]  As informações de favoritos e comentários adicionados por um usuário devem ser salvas no estado. Utilizar o ngRx para esse controle;
 - [ ]  Deve fazer a paginação da listagem (máximo 10 itens por página);
