@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## O desafio/objetivo
 Você deve criar uma página para:
-- [ ] Listar os Pokémons utilizando uma API RESTful para isso. Sugerimos a seguinte API: https://pokeapi.co/docsv2;
+- [ ] Listar os Pokémons utilizando uma API RESTful para isso. Sugerimos a seguinte [API](https://pokeapi.co/docsv2);
 - [ ] Filtrar os pokémons que você deseja visualizar;
 - [ ] Favoritar pokémons;
 - [ ] Adicionar comentários sobre os pokémons;
